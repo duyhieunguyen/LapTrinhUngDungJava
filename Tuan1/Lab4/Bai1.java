@@ -15,7 +15,7 @@ public class Bai1 {
 //		Sp3.exportArrays();
 //		Product Sp4 = new Product ("Việt Anh", 333300);
 //		Sp4.exportArrays();
-		Product Sp = new Product();
+		Product Sp = new Product("Duy Hieu", 3000, 400);
 		Sp.importArraysMang();
 		
 	}
