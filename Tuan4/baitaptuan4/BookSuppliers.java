@@ -334,7 +334,6 @@ public class BookSuppliers extends JFrame {
 			rowData[8] = b.getEmailId();
 			rowData[9] = b.getRemarks();
 			defaultTableModel.addRow(rowData);
-
 		}
 	}
 }
